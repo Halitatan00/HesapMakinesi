@@ -1,0 +1,17 @@
+C:\Users\Halit\Desktop\Kurslar\C#\App\HasapMakinesi\HasapMakinesi\bin\Debug\net8.0-windows\HasapMakinesi.exe
+C:\Users\Halit\Desktop\Kurslar\C#\App\HasapMakinesi\HasapMakinesi\bin\Debug\net8.0-windows\HasapMakinesi.deps.json
+C:\Users\Halit\Desktop\Kurslar\C#\App\HasapMakinesi\HasapMakinesi\bin\Debug\net8.0-windows\HasapMakinesi.runtimeconfig.json
+C:\Users\Halit\Desktop\Kurslar\C#\App\HasapMakinesi\HasapMakinesi\bin\Debug\net8.0-windows\HasapMakinesi.dll
+C:\Users\Halit\Desktop\Kurslar\C#\App\HasapMakinesi\HasapMakinesi\bin\Debug\net8.0-windows\HasapMakinesi.pdb
+C:\Users\Halit\Desktop\Kurslar\C#\App\HasapMakinesi\HasapMakinesi\obj\Debug\net8.0-windows\HasapMakinesi.Form1.resources
+C:\Users\Halit\Desktop\Kurslar\C#\App\HasapMakinesi\HasapMakinesi\obj\Debug\net8.0-windows\HasapMakinesi.Properties.Resources.resources
+C:\Users\Halit\Desktop\Kurslar\C#\App\HasapMakinesi\HasapMakinesi\obj\Debug\net8.0-windows\HasapMakinesi.csproj.GenerateResource.cache
+C:\Users\Halit\Desktop\Kurslar\C#\App\HasapMakinesi\HasapMakinesi\obj\Debug\net8.0-windows\HasapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halit\Desktop\Kurslar\C#\App\HasapMakinesi\HasapMakinesi\obj\Debug\net8.0-windows\HasapMakinesi.AssemblyInfoInputs.cache
+C:\Users\Halit\Desktop\Kurslar\C#\App\HasapMakinesi\HasapMakinesi\obj\Debug\net8.0-windows\HasapMakinesi.AssemblyInfo.cs
+C:\Users\Halit\Desktop\Kurslar\C#\App\HasapMakinesi\HasapMakinesi\obj\Debug\net8.0-windows\HasapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\Halit\Desktop\Kurslar\C#\App\HasapMakinesi\HasapMakinesi\obj\Debug\net8.0-windows\HasapMakinesi.dll
+C:\Users\Halit\Desktop\Kurslar\C#\App\HasapMakinesi\HasapMakinesi\obj\Debug\net8.0-windows\refint\HasapMakinesi.dll
+C:\Users\Halit\Desktop\Kurslar\C#\App\HasapMakinesi\HasapMakinesi\obj\Debug\net8.0-windows\HasapMakinesi.pdb
+C:\Users\Halit\Desktop\Kurslar\C#\App\HasapMakinesi\HasapMakinesi\obj\Debug\net8.0-windows\HasapMakinesi.genruntimeconfig.cache
+C:\Users\Halit\Desktop\Kurslar\C#\App\HasapMakinesi\HasapMakinesi\obj\Debug\net8.0-windows\ref\HasapMakinesi.dll
